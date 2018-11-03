@@ -1672,6 +1672,23 @@ DiscordJS.Emoji.prototype.convertToString = function() {
 	return `e-${this.id}`;
 };
 
+{
+  "name": "test",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "KNWlg",
+  "actions": [
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "adsadads",
+      "storage": "0",
+      "varName2": "",
+      "name": "Send Message"
+    }
+  ]
+}
+
 //---------------------------------------------------------------------
 // Start Bot
 //---------------------------------------------------------------------
