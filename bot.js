@@ -6,6 +6,7 @@
 
 const DBM = {};
 const DiscordJS = DBM.DiscordJS = require('discord.js');
+const bot = new Discord.Client({disableEveryone: true});
 
 //---------------------------------------------------------------------
 // Bot
